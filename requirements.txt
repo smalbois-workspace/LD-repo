@@ -1,0 +1,2 @@
+launchdarkly-server-sdk>=7.0.0
+python-decouple==3.6
