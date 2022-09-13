@@ -12,9 +12,11 @@ This demo requires Python version 3.5 or higher.
 
 3)	Create a .env file in the root directory
 
+```yaml
 SDK_KEY_PRODUCTION=<SDK KEY PRODUCTION>
 SDK_KEY_TEST=<SDK KEY TEST>
 ENVIRONMENT=production
+```
 
 Note: please add your SDK Key to the different environments (Production and Test are the only available environments here)
 
